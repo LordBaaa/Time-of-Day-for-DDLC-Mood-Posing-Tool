@@ -13,7 +13,7 @@ Get the 'unpacked" zip, or [here](https://drive.google.com/drive/folders/136KBTh
 
 Again sorry to make this complicated but again I can’t include a full just download me and be done zip.
 
-Anyways, you will want to download that zip of MPT. Open it and copy the game/mod_assets from the zip folder into you game folder. Now simply copy the contents of this mod into the mod_assets folder and you are done. 
+Anyways, you will want to download that zip of MPT. Open it and copy the game/mod_assets from the zip folder into you game folder. Now simply merge the game folder from this mod with you game folder and you are done. 
 
 You could copy it all but that is only if you want to use the MPT mode. Doing it this way will simply allow you to use the time of day function and Layered Image stuff in any build
 
