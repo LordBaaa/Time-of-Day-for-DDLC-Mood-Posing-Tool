@@ -26,11 +26,11 @@ I have included everyone I aware is involved but please let me know if I am miss
 
 # Credits:
 - **Chronoshag** [Chronoshag](https://www.reddit.com/user/chronoshag/) 
-Original MPT
+Original MPT code I based this off of
 
 
 - **Koya-Sato** [Koya-Sato](https://github.com/Koya-Sato) 
-Time of Day Matrices 
+Time of Day Matrix values
 
 
 Aditional links:
