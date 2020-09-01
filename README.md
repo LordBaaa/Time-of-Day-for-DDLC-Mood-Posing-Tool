@@ -3,11 +3,10 @@ This is my version of MPT that adds the ability to have MatrixColor effects, aka
 
 # Prerequisites:
  
-To respect the wishes of the MPT Developers I can not include their art assets in this build. So you will need to go download a version of it here 
-https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/
+To respect the wishes of the MPT Developers I can not include their art assets in this build. So you will need to go download a version of it [here](https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/)
 
-Get the 'unpacked" zip, or here is a link to there current version
-https://drive.google.com/drive/folders/136KBThnImX3qABRlMO8YKykM5gtLI_6x
+Get the 'unpacked" zip, or [here](https://drive.google.com/drive/folders/136KBThnImX3qABRlMO8YKykM5gtLI_6x) is a link to there current version
+
 
 
 # How to install:
@@ -26,10 +25,9 @@ I have included everyone I aware is involved but please let me know if I am miss
 
 
 # Credits:
-Chronoshag for MPT
- https://www.reddit.com/user/chronoshag/
- https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/
+- **Chronoshag** - [Chronoshag](https://www.reddit.com/user/chronoshag/) [MPT](https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/)
 
-Koya-Sato for the matrices
- https://github.com/Koya-Sato
- https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack
+
+- **Koya-Sato** - [Chronoshag](https://github.com/Koya-Sato) [DDLC-Modding-Starter-Pack](https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack)
+
+
