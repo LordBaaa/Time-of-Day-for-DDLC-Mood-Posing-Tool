@@ -26,10 +26,10 @@ I have included everyone I aware is involved but please let me know if I am miss
 
 # Credits:
 - **Chronoshag** - [Chronoshag](https://www.reddit.com/user/chronoshag/) 
--- **Release** [MPT](https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/)
+- **Release** [MPT](https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/)
 
 
 - **Koya-Sato** - [Koya-Sato](https://github.com/Koya-Sato) 
--- **Release** [DDLC-Modding-Starter-Pack](https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack)
+- **Release** [DDLC-Modding-Starter-Pack](https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack)
 
 
