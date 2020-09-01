@@ -1,9 +1,9 @@
-l#This a modified file from MPT by Chronoshag https://www.reddit.com/user/chronoshag/
+#This a modified file from MPT by Chronoshag https://www.reddit.com/user/chronoshag/
 #It is part of the Mod "Time of Day effects for DDLC Mood Posing Tool"
 #Created by me LordBaaa https://github.com/LordBaaa/
 #If used or if the code from LayeredTime.rpy is used please credit me
 
-ayeredimage monika forward: #All definitions are for her facing forward.
+layeredimage monika forward: #All definitions are for her facing forward.
     group time:
     
         #LordBaaa
