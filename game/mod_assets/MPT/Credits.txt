@@ -1,0 +1,19 @@
+This is a mod for the MPT Mod by me LordBaaa to add the ability to run Matrix Color on the Layered Image type
+Layered Time is my mod, please credit me if you use it and be sure to credit these people as well
+https://github.com/LordBaaa
+
+
+
+
+Credits:
+Chronoshag https://www.reddit.com/user/chronoshag/
+Original MPT code I based this off of
+
+
+Koya-Sato Koya-Sato https://github.com/Koya-Sato
+Time of Day Matrix values
+
+
+Aditional links:
+https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/
+DDLC-Modding-Starter-Pack(https://github.com/Koya-Sato/DDLC-Modding-Starter-Pack
