@@ -5,7 +5,7 @@ This is my version of MPT that adds the ability to have MatrixColor effects, aka
  
 To respect the wishes of the MPT Developers I can not include their art assets in this build. So you will need to go download a version of it [here](https://www.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/)
 
-Get the 'unpacked" zip, or [here](https://drive.google.com/drive/folders/136KBThnImX3qABRlMO8YKykM5gtLI_6x) is a link to there current version
+Get the DDLC_MPT-1.01_unpacked.zip, or [here](https://drive.google.com/drive/folders/136KBThnImX3qABRlMO8YKykM5gtLI_6x) is a link to there current version
 
 
 
